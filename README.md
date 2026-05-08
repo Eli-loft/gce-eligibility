@@ -14,7 +14,7 @@ Binary classification pipeline predicting NYC Good Cause Eviction (GCE) law elig
 
 12 runs logged across all three notebooks - logistic regression, decision tree, 8 MLP threshold sweep runs, and final MLP evaluation.
 
-![MLflow Runs](mlflow_runs.png)
+![MLflow Runs](ml_flow.png)
 
 ## Pipeline
 
